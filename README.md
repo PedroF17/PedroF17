@@ -1,4 +1,4 @@
- 📖 Learning C/Python in University
+ 📖 "Learning" C/Python in college
  
  📫 pmfaria17@gmail.com
 
